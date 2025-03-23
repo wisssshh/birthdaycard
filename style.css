@@ -168,7 +168,6 @@ h4 {
 	text-align: right;
 }
 
-/* --- RESPONSIVE DESIGN --- */
 
 /* Untuk layar kecil (HP) */
 @media screen and (max-width: 600px) {
@@ -206,12 +205,6 @@ h4 {
     }
 }
 
-/* Untuk layar sedang (Tablet) */
-@media screen and (max-width: 900px) {
-    .card {
-        width: 70%;
-    }
-}
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC');
 
